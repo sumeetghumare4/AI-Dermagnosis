@@ -1,2 +1,2 @@
-# SkinSkan by Leah Uriarte and Lan Nguyen
-# SkinSkan is a machine learning based web app that identifies skin lesions and classifies them by severity
+# Revolutionizing Dermatological Diagnoses: AI-Powered Skin Lesion Analysis
+# AI Dermagnosis is an AI-powered skin lesion diagnosis that can accurately identify & classify skin lesions based on dermoscopic images.It gives advice for all skin diagnoses and also AI Dermagnosis holds the potential to provide rapid and reliable assessments, assisting medical professionals in delivering timely and precise treatment recommendations for patients.
