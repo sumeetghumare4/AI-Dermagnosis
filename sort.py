@@ -1,8 +1,11 @@
 import os
 import shutil
 
-# specify the directory containing the text files to be organized
-source_dir = '/Users/Leah/wound/archive'
+# Specify the new directory containing the text files to be organized on your laptop
+source_dir = '/home/sumeet/spons'
+
+# Specify the new destination directory for the organized image files
+destination_dir = '/home/sumeet/store'
 
 
 # loop through the text files in the source directory
