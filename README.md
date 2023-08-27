@@ -1,4 +1,4 @@
-# 🌟 **Revolutionizing Dermatological Diagnoses: AI-Powered Skin Lesion Analysis** 🌟
+## *Revolutionizing Dermatological Diagnoses: AI-Powered Skin Lesion Analysis*
 
 ## *Welcome to AI Dermagnosis – the Future of Skin Lesion Diagnosis!*
 
